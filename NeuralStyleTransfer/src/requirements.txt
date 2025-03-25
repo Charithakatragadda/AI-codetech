@@ -1,0 +1,6 @@
+torch
+torchvision
+PILLOW
+matplotlib
+numpy
+tensorflow
